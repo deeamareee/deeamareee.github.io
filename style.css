@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(214, 100, 65);
+    color: rgb(238, 238, 197);
+}
+.central {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;    
+    text-align: center;
+}
